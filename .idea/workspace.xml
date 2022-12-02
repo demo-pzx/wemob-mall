@@ -69,7 +69,8 @@
       <option name="presentableId" value="Default" />
       <updated>1669790067693</updated>
       <workItem from="1669790069368" duration="4875000" />
-      <workItem from="1669795585001" duration="893000" />
+      <workItem from="1669795585001" duration="2717000" />
+      <workItem from="1669870058393" duration="414000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1669790700344</created>
@@ -120,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669795653066</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="更新README（测试git环境）">
+      <created>1669796482491</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669796482491</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
